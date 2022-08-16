@@ -1,1 +1,19 @@
-# Database Setting
+# --------- DATABASE CONFIG ---------
+# database.tests.hostname = localhost
+# database.tests.database = karepe
+# database.tests.username = root
+# database.tests.password = root
+# database.tests.DBDriver = MySQL
+# database.tests.DBPrefix =
+
+# --------- CONFIG DEVELOPMENT ---------
+# structure.framework = Mvc
+# structure.curl = 
+# structure.launching = development
+
+# --------- CONFIG API ---------
+# api.url =  
+# api.header = 
+# api.key = 
+# api.method = [] 
+
