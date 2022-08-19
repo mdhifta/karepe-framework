@@ -2,7 +2,7 @@
 
 # setting config
 $config = [
-    'structure.framework' => 'karepe',
+    'structure.framework' => 'mvc',
     'structure.curl' => '',
     'structure.launching' => 'development'
 ];
